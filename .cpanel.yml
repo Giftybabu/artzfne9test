@@ -1,6 +1,0 @@
----
-deployment:
-  tasks:
-      - export DEPLOYPATH=/home/artzfne9/repositories/test2/
-          - /bin/cp index.html $DEPLOYPATH
-              - /bin/cp style.css $DEPLOYPATH
